@@ -1,0 +1,14 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "description": "Netlify Edge Function",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
